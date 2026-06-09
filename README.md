@@ -101,7 +101,7 @@
 
 ## 💼 Experience
 
-### Data Analytics Trainee | Grapes Global
+### Data Analytics Trainee | Grades Global
 📅 July 2024 – August 2024
 
 - Streamlined data cleaning using Python and Excel
